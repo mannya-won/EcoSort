@@ -36,7 +36,6 @@ sublime text app
 ## Screenshots
 Screenshot1:[EcoSort - Google Chrome 26-01-2025 10_57_31](https://github.com/user-attachments/assets/09e5b30d-11aa-4739-916f-533de10c39dc)
 Front page of the website
-
 Screenshot2:[EcoSort - Google Chrome 26-01-2025 10_58_42](https://github.com/user-attachments/assets/9dfd2e1a-d342-4370-9594-6b3815ecf05c)
 The website giving solution
 
